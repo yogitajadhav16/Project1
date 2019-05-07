@@ -1,0 +1,25 @@
+<service>
+	<id>demonodebackend.exe</id>
+	<name>demo-node-backend</name>
+	<description>Product and User NodeJS backend</description>
+	<executable>C:\Program Files\nodejs\node.exe</executable>
+	<logmode>rotate</logmode>
+	<argument>--harmony</argument>
+	<argument>C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js</argument>
+	<argument>--file</argument>
+	<argument>C:\Users\shekhar\Documents\Demo\BackEnd\app	.js</argument>
+	<argument>--log</argument>
+	<argument>demo-node-backend wrapper</argument>
+	<argument>--grow</argument>
+	<argument>0.25</argument>
+	<argument>--wait</argument>
+	<argument>1</argument>
+	<argument>--maxrestarts</argument>
+	<argument>3</argument>
+	<argument>--abortonerror</argument>
+	<argument>n</argument>
+	<argument>--stopparentfirst</argument>
+	<argument>undefined</argument>
+	<stoptimeout>30sec</stoptimeout>
+	<workingdirectory>C:\Users\shekhar\Documents\Demo\BackEnd</workingdirectory>
+</service>

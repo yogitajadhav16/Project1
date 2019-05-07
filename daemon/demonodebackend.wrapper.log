@@ -1,0 +1,12 @@
+2019-02-04 08:06:35 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-02-04 08:06:35 - Started 6716
+2019-03-16 10:18:21 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-16 10:18:23 - Started 2752
+2019-03-29 09:10:48 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-29 09:10:50 - Started 2484
+2019-03-29 09:14:59 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-03-29 09:14:59 - Started 1856
+2019-04-02 09:30:15 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-02 09:30:17 - Started 2808
+2019-04-02 19:51:18 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\shekhar\AppData\Roaming\npm\node_modules\qckwinsvc\node_modules\node-windows\lib\wrapper.js --file C:\Users\shekhar\Documents\Demo\BackEnd\app	.js --log "demo-node-backend wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-04-02 19:51:18 - Started 2112
